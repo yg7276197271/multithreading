@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;App.java&apos; to &apos;Concurrency4_joinmethod/src/com.balazsholczer.udemy&apos;&#x0D;&#x0A;- Original project: &apos;Concurrency4_joinmethod&apos;&#x0D;&#x0A;- Destination element: &apos;Concurrency4_joinmethod/src/com.balazsholczer.udemy&apos;&#x0D;&#x0A;- Original element: &apos;com.balazsholczer.udemy.App.java&apos;" description="Copy compilation unit" destination="/src&lt;com.balazsholczer.udemy" element1="/src&lt;com.balazsholczer.udemy{App.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1695730299336" units="1" version="1.0"/>
+</session>
